@@ -5,8 +5,9 @@ a GUI TODO list
 
 
 ### TODO
-add Network
-add alarm
+
+* add Network
+* add alarm
 
 
 ### License
